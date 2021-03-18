@@ -12,6 +12,7 @@ You can start really easy! Just click the following link and start using **Hycom
 Simply use elements available in **Hycom C4** library to create diagrams in very convenient way! Just drag elements from library and double click on it to edit titles and descriptions. This is the most intuitive way to do it quick and easy with keeping aesthetic and readable form.
 
 Below on the screen you can see **Hycom C4** library on the left panel of *diagrams.net* application.
+
 ![hycom-c4](/Hycom-C4-Screenshot.png)
 
 # Credits
