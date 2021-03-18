@@ -15,6 +15,16 @@ Below on the screen you can see **Hycom C4** library on the left panel of *diagr
 
 ![hycom-c4](/Hycom-C4-Screenshot.png)
 
+## Use it in the desktop application too!
+You can also use the **Hycom C4** library in the *draw.io* / *diagrams.net* desktop application.
+
+To do this follow the steps described below:
+1. Download *Hycom-C4-Library.xml* file from the repository: https://github.com/hycomsa/hycom-c4
+2. Start *draw.io* / *diagrams.net* desktop application.
+3. Click *File* > *Open Library...* and then select the downloaded *Hycom-C4-Library.xml* file.
+
+After that, you should see the library on the left panel of the application.
+
 # Credits
 Please share with me with your suggestions, ideas, comments, etc. Please feel free to provide any feedback.
 
