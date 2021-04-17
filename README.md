@@ -1,6 +1,14 @@
 # Hycom C4 for diagrams.net
-The **Hycom C4** library allows you to quick and convenient creating aesthetic C4 diagrams in *diagrams.net* application.
-The library contains following easy to use elements:
+The **Hycom C4** library allows you to visualise software architecture using the C4 model approach. The library lets create C4 diagrams in an easy, quick and convenient way in the *diagrams.net* / *draw.io* application.
+The **Hycom C4** library contains the following easy to use elements:
+- Person (internal and external)
+- Software system (internal and external)
+- Container (6 different types: generic, data, microservice, message bus, web browser and mobile app)
+- Component
+- Relationship (with description and technology, with generic description and plain)
+- Scope boundary (software system and container)
+- Diagram title (for system context, containers and components diagrams)
+- Legend
 
 ![hycom-c4](/Hycom-C4.png)
 
