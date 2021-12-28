@@ -8,6 +8,7 @@ The **Hycom C4** library contains the following easy to use elements:
 - Relationship (with description and technology, with generic description and plain)
 - Scope boundary (software system and container)
 - Diagram title (for system context, containers and components diagrams)
+- Deployment node boundary
 - Legend
 
 ![hycom-c4](/Hycom-C4.png)
